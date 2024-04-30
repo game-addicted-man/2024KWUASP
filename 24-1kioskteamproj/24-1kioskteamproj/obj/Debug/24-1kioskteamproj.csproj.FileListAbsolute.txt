@@ -1,0 +1,12 @@
+F:\Code\Visual Studio\repos\24-1kioskteamproj\24-1kioskteamproj\bin\Debug\24-1kioskteamproj.exe.config
+F:\Code\Visual Studio\repos\24-1kioskteamproj\24-1kioskteamproj\bin\Debug\24-1kioskteamproj.exe
+F:\Code\Visual Studio\repos\24-1kioskteamproj\24-1kioskteamproj\bin\Debug\24-1kioskteamproj.pdb
+F:\Code\Visual Studio\repos\24-1kioskteamproj\24-1kioskteamproj\obj\Debug\24-1kioskteamproj.csproj.AssemblyReference.cache
+F:\Code\Visual Studio\repos\24-1kioskteamproj\24-1kioskteamproj\obj\Debug\24-1kioskteamproj.csproj.SuggestedBindingRedirects.cache
+F:\Code\Visual Studio\repos\24-1kioskteamproj\24-1kioskteamproj\obj\Debug\_24_1kioskteamproj.Form1.resources
+F:\Code\Visual Studio\repos\24-1kioskteamproj\24-1kioskteamproj\obj\Debug\_24_1kioskteamproj.Properties.Resources.resources
+F:\Code\Visual Studio\repos\24-1kioskteamproj\24-1kioskteamproj\obj\Debug\24-1kioskteamproj.csproj.GenerateResource.cache
+F:\Code\Visual Studio\repos\24-1kioskteamproj\24-1kioskteamproj\obj\Debug\24-1kioskteamproj.csproj.CoreCompileInputs.cache
+F:\Code\Visual Studio\repos\24-1kioskteamproj\24-1kioskteamproj\obj\Debug\24-1kioskteamproj.exe
+F:\Code\Visual Studio\repos\24-1kioskteamproj\24-1kioskteamproj\obj\Debug\24-1kioskteamproj.pdb
+F:\Code\Visual Studio\repos\24-1kioskteamproj\24-1kioskteamproj\obj\Debug\_24_1kioskteamproj.Form2.resources
